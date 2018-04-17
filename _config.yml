@@ -1,1 +1,53 @@
-theme: jekyll-theme-hacker
+# Jekyll configuration
+
+name: Layer Zero's Blog 
+description: UNLV's Cyber Security Student Organization
+
+# Url is currently only used only for the RSS feed in feed.xml
+url: http://layer-zero-unlv.github.io
+#url: http://localhost:4000
+
+# For a project page here should be a project name. Otherwise (for user's/organization's page leave it empty)
+baseurl: ''
+
+share:
+  facebook: true
+  twitter: true
+  gplus: true
+  linkedin: true
+  pinterest: true
+  email: true
+
+social:
+  github: layer-zero-unlv
+  stackoverflow: ''
+  linkedin:
+  instagram: ''
+  lastfm: ''
+  rss: feed.xml
+
+# Google Analytics key, leave blank to ignore
+google_analytics_key:
+# Yandex metrica (https://metrica.yandex.com/) leave blank to ignore or put true to use
+yandex_metrica:
+
+
+# Set this to your disqus shortname to enable comments. Note that the 'comments'
+# setting below must also be true. Individual posts can override 'comments' to
+# disable on a post-by-post basis
+disqus: streetturtle
+comments: false
+
+permalink: /:year/:month/:title
+
+# Enable for using pages, more details are here: http://jekyllrb.com/docs/pagination/
+#paginate: 3
+
+#highlighter: rouge
+
+markdown: kramdown
+kramdown:
+  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
+  hard_wrap: true
+
+exclude: ['README.md', 'LICENSE']
