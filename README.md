@@ -4,6 +4,7 @@
 We are Layer Zero, a Information and Cyber Security student organization at the University of Nevada, Las Vegas.
 This repository contains our organization website and blog. [Layer Zero Homepage](https://layer-zero-unlv.github.io/)
 
+
 ## Other Information
 Email: layer_zero@unlv.nevada.edu
 
@@ -16,6 +17,8 @@ Department: Howard Hughes College of Engineering - Computer Science
 
 ## Credits
 ### Original README from HTML5 UP
+Speacial thanks to Somiibo, the author of Massively, and open sourcing this awesome jekyll theme. The demo and home page can be found [here]. (http://jekyllthemes.org/themes/massively/)
+
 ```
 Massively by HTML5 UP
 html5up.net | @ajlkn
