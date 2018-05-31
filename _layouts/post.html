@@ -1,45 +1,91 @@
-{% include header.html %}
-    <div class="wrapper">
-      <div class="content">
-        <div class="container container-center">
-          <div class="row">
-            <div class="col-md-8">
-              <div class="article">
-                <div class="well">
-                  <h1><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h1>
-                  <div class="post-meta">
-                    <div class="post-time">
-                      <i class="fa fa-calendar"></i>
-                      <time>{{ page.date | date_to_string }}</time>
-                    </div>
-                    <ul>
-                      {% for tag in page.tags %}
-                        <li><a href="{{ '/tag/' | append: tag | relative_url }}">{{ tag }}</a></li>
-                      {% endfor %}
-                    </ul>
-                  </div>
-                  <div class="post-content">
-                    <div id="toc" class="toc"></div>
-                    {{ content }}
-                    {% include share.html %}
-                  </div>
-                  {% if page.comments %}
-                  <div id="disqus_thread">
-                    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-                  </div>
-                  {% endif %}
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 hidden-xs">
-              {% include sidebar.html %}
-            </div>
-          </div>
-        </div>
-        {% include disqus-comments.html %}
-      </div>
-      {% include footer.html %}
-    </div>
-  </body>
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+    {% include head.html %}
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Header -->
+        <header id="header">
+          <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+        </header>
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+
+						<ul class="icons">
+              <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
+              <li><a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
+              <li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
+              <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+				<div id="main">
+          <section class="post">
+    				<header class="major">
+      				<span class="date">{{page.date | date_to_string}}</span>
+      				<h1>{{page.title}}</h1>
+      				<p>{{page.excerpt}}</p>
+      			</header>
+      			<div class="image main"><img src="{{page.image}}" alt=""></div>
+      			<p>{{content}}</p>
+      		</section>
+
+          <div class="comments-wrapper">
+          <div id="disqus_thread"></div>
+          <script>
+              /**
+               *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+               *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+               */
+
+              var disqus_config = function () {
+                  this.page.url = '{{ absolute_url }}{{ page.url }}';  /*Replace PAGE_URL with your page's canonical URL variable*/
+                  this.page.identifier = '{{ page.url }}'; /*Replace PAGE_IDENTIFIER with your page's unique identifier variable*/
+              };
+
+              (function() {  /* dont endit below this line */
+                  var d = document, s = d.createElement('script');
+
+                  s.src = 'https://{{ site.disqus_shortname }}.disqus.com/embed.js';
+
+                  s.setAttribute('data-timestamp', +new Date());
+                  (d.head || d.body).appendChild(s);
+              })();
+          </script>
+          <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+        </div><!-- /.comments-wrapper -->
+
+
+					<!-- Footer -->
+						<footer>
+              <ul class="actions">
+                <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
+              </ul>
+						</footer>
+					</div>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+      <!-- Scripts -->
+  		{% include scripts-main.html %}
+			{% include tracking.html %}
+
+	</body>
 </html>
