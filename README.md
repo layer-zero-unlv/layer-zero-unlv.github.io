@@ -1,24 +1,17 @@
-## How to Use This Theme
-Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
+# Layer Zero (University of Nevada, Las Vegas)
 
-Download this repository [here](https://github.com/iwiedenm/jekyll-theme-massively-src/archive/master.zip) and save it to any folder you want.
+## Who We Are
+We are Layer Zero, a Information and Cyber Security student organization at the University of Nevada, Las Vegas.
+This repository contains our organization website and blog. [Layer Zero Homepage](https://layer-zero-unlv.github.io/)
 
-Open a terminal window or a command line and ```cd``` to that location.
+## Other Information
+Email: layer_zero@unlv.nevada.edu
 
-Then enter: ```bundle exec jekyll serve```. You can now access your new Jekyll site from [http://127.0.0.1:4000/](http://127.0.0.1:4000/). Have fun exploring your new site!
+Advisor: Profesor Yoohwan Kim
 
-## Features
-### Auto-Generating Sitemap
-The sitemap is auto generated! Just simply change the sitemap variable in front matter of each page. It looks like so...
-```
-sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
-```
+Department: Howard Hughes College of Engineering - Computer Science
 
-### Formspring.io Integration
-Formspring is supported out of the box! Just add your email to ```_config.yml```
+
 
 
 ## Credits
