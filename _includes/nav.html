@@ -2,7 +2,5 @@
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
   <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">About</a></li>
   <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Blog</a></li>
-  <!-- remove elemnts page
-  <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/elements/" | absolute_url }}">Elements Reference</a></li>
-  -->
+  <li class="{% if page.url contains '/calendar/' %} active {% endif %}"><a href="{{ "/calendar/" | absolute_url }}">Calendar</a></li>
 </ul>
