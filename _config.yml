@@ -1,7 +1,7 @@
 # Site
 title:              Layer Zero
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+bio:                'UNLV Cyber Security Club'
+description:        "UNLV Cyber Security Club"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -41,7 +41,7 @@ instagram:          ""
 github:             layer-zero-unlv
 
 # personal
-location:           Las Vegas, NV
+location:           Building-WHI, Room-302
 phone:              
 email:              layer_zero@unlv.edu
 
