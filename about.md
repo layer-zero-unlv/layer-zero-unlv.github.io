@@ -9,7 +9,7 @@ sitemap:
 ---
 ## About Us
 
-<span class="image left"><img src="{{ "/images/cyber-security.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/logo.png" | absolute_url }}" alt="" /></span>
 
 At Layer Zero we have two main goals: provide knowledge in general cyber security and prepare members to compete in National Cyber League's 'Capture the Flag'.
 
@@ -24,23 +24,13 @@ We also provide resources to prepare members to take the Security+ examination, 
             <div>
                 <span class="image fit"><img src="{{ "/images/hacker.jpg" | absolute_url }}" alt="" /></span>
                 <p class="bio">
-                    Dakota Rhiner<br>
+                    Phillipe Austria<br>
                     President
                 </p>
             </div>
         </div>
 
         <div class="4u">
-            <div>
-                <span class="image fit"><img src="{{ "/images/hacker.jpg" | absolute_url }}" alt="" /></span>
-                <p class="bio">
-                    Phillipe Austria<br>
-                    Vice President
-                </p>
-            </div>
-        </div>
-
-        <div class="4u$">
             <div>
                 <span class="image fit"><img src="/images/hacker.jpg" alt="" /></span>
                 <p class="bio">
@@ -49,23 +39,12 @@ We also provide resources to prepare members to take the Security+ examination, 
                 </p>
             </div>
         </div>
-        <!-- Break -->
-        <div class="4u">
+        <div class="4u$">
             <div>
                 <span class="image fit"><img src="{{ "/images/hacker.jpg" | absolute_url }}" alt="" /></span>
                 <p class="bio">
                     Matt Lazeroff<br>
                     Lead Trainer
-                </p>
-            </div>
-        </div>
-
-        <div class="4u$">
-            <div>
-                <span class="image fit"><img src="{{ "/images/hacker.jpg" | absolute_url }}" alt="" /></span>
-                <p class="bio">
-                    Matt Lyle<br>
-                    System Admin
                 </p>
             </div>
         </div>
