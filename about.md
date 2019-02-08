@@ -29,7 +29,6 @@ We also provide resources to prepare members to take the Security+ examination, 
                 </p>
             </div>
         </div>
-
         <div class="4u">
             <div>
                 <span class="image fit"><img src="/images/hacker.jpg" alt="" /></span>
@@ -45,6 +44,16 @@ We also provide resources to prepare members to take the Security+ examination, 
                 <p class="bio">
                     Matt Lazeroff<br>
                     Lead Trainer
+                </p>
+            </div>
+        </div>
+
+        <div class="4u">
+            <div>
+                <span class="image fit"><img src="/images/hacker.jpg" alt="" /></span>
+                <p class="bio">
+                    Matt Lyle<br>
+                    System Admin
                 </p>
             </div>
         </div>
