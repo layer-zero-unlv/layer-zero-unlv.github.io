@@ -77,17 +77,17 @@ We also provide resources to prepare members to take the Security+ examination, 
     </div>
 </div>
 
-### Adviser
-<div class="box alt">
-    <div class="adviser-pic 5u">
-        <span class="image fit"><img src="/images/kim-adviser.jpg" alt="" /></span>
-        <p class="bio">
-            Dr. Yoohwan Kim, Ph.D.<br>
-            CISSP, CISA, CEH, CPT<br>
-            Associate Professor
-        </p>
+<h3 class="text-center">Adviser</h3>
+<div class="row">
+    <div class="d-block mx-auto">
+    <span class="image fit"><img src="/images/kim-adviser.jpg" alt="" class="w-75"/></span>
+    <p class="bio">
+        Dr. Yoohwan Kim, Ph.D.<br>
+        CISSP, CISA, CEH, CPT<br>
+        Associate Professor
+    </p>
     </div>
-<div>
+</div>
 
 <style>
 #about-us, #officers, #adviser, .bio {
