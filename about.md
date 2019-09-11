@@ -20,18 +20,27 @@ We also provide resources to prepare members to take the Security+ examination, 
 ### Officers
 <div class="box alt">
     <div class="row 50% uniform">
-        <div class="4u">
+    <div class="4u">
             <div>
-                <span class="image fit"><img src="{{ "/images/hacker.jpg" | absolute_url }}" alt="" /></span>
+                <span class="image fit"><img src="/images/hacker.jpg" alt="" class="img-profile"/></span>
                 <p class="bio">
-                    Phillipe Austria<br>
+                    Daniel Ainsworth<br>
                     President
                 </p>
             </div>
         </div>
         <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/hacker.jpg" alt="" /></span>
+                <span class="image fit"><img src="/images/phill-profile.jpg" class="img-profile" alt="" /></span>
+                <p class="bio">
+                    Phillipe Austria<br>
+                    Scheduling Liason
+                </p>
+            </div>
+        </div>
+        <div class="4u">
+            <div>
+                <span class="image fit"><img src="/images/hacker.jpg" alt="" class="img-profile" /></span>
                 <p class="bio">
                     Jinger Siu<br>
                     Lead Trainer
@@ -40,20 +49,28 @@ We also provide resources to prepare members to take the Security+ examination, 
         </div>
         <div class="4u$">
             <div>
-                <span class="image fit"><img src="{{ "/images/hacker.jpg" | absolute_url }}" alt="" /></span>
+                <span class="image fit"><img src="{{ "/images/hacker.jpg" | absolute_url }}" alt="" class="img-profile"/></span>
                 <p class="bio">
                     Matt Lazeroff<br>
-                    Lead Trainer
+                    Vice President
                 </p>
             </div>
         </div>
-
         <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/hacker.jpg" alt="" /></span>
+                <span class="image fit"><img src="/images/hacker.jpg" alt="" class="img-profile" /></span>
                 <p class="bio">
                     Matt Lyle<br>
                     System Admin
+                </p>
+            </div>
+        </div>
+         <div class="4u">
+            <div>
+                <span class="image fit"><img src="/images/AlexPic.JPG" alt="" class="img-profile rotate"/></span>
+                <p class="bio">
+                  Alex Corey<br>
+                     PUBLIC RELATIONS
                 </p>
             </div>
         </div>
@@ -63,7 +80,7 @@ We also provide resources to prepare members to take the Security+ examination, 
 ### Adviser
 <div class="box alt">
     <div class="adviser-pic 5u">
-        <span class="image fit"><img src="{{ "/images/hacker.jpg" | absolute_url }}" alt="" /></span>
+        <span class="image fit"><img src="/images/kim-adviser.jpg" alt="" /></span>
         <p class="bio">
             Dr. Yoohwan Kim, Ph.D.<br>
             CISSP, CISA, CEH, CPT<br>

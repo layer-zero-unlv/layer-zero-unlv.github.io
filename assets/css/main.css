@@ -2455,6 +2455,8 @@
 
 			.image.fit img {
 				width: 100%;
+				
+    margin: 0 20px;
 			}
 
 		.image.main {
@@ -4481,3 +4483,13 @@
 		}
 
 	}
+
+	.img-profile {
+    width: 200px; /* You can set the dimensions to whatever you want */
+    height: 200px;
+    object-fit: cover;
+}
+.rotate
+{
+	 transform: rotate(180deg);
+}
