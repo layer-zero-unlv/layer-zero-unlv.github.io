@@ -4493,3 +4493,7 @@
 {
 	 transform: rotate(180deg);
 }
+.rotate-lyle
+{
+	transform: rotate(90deg)
+}

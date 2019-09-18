@@ -40,7 +40,7 @@ We also provide resources to prepare members to take the Security+ examination, 
         </div>
         <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/hacker.jpg" alt="" class="img-profile" /></span>
+                <span class="image fit"><img src="/images/ginger.jpg" alt="" class="img-profile" /></span>
                 <p class="bio">
                     Jinger Siu<br>
                     Lead Trainer
@@ -58,7 +58,7 @@ We also provide resources to prepare members to take the Security+ examination, 
         </div>
         <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/hacker.jpg" alt="" class="img-profile" /></span>
+                <span class="image fit"><img src="/images/lyle.jpg" alt="" class="img-profile rotoate" /></span>
                 <p class="bio">
                     Matt Lyle<br>
                     System Admin
@@ -70,7 +70,7 @@ We also provide resources to prepare members to take the Security+ examination, 
                 <span class="image fit"><img src="/images/AlexPic.JPG" alt="" class="img-profile rotate"/></span>
                 <p class="bio">
                   Alex Corey<br>
-                     PUBLIC RELATIONS
+                     Public Relations
                 </p>
             </div>
         </div>
