@@ -46,7 +46,7 @@ phone:
 email:              layer_zero@unlv.edu
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed
