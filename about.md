@@ -88,6 +88,15 @@ We also provide resources to prepare members to take the Security+ examination, 
                 </p>
             </div>
         </div>
+        <div class="4u">
+            <div>
+                <span class="image fit"><img src="{{ "/images/hacker.jpg" | absolute_url }}" alt="" class="img-profile"/></span>
+                <p class="bio">
+                    Jorge Garcia<br>
+                    Lab & System Administator
+                </p>
+            </div>
+        </div>
     </div>
 </div>
 
