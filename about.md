@@ -20,57 +20,71 @@ We also provide resources to prepare members to take the Security+ examination, 
 ### Officers
 <div class="box alt">
     <div class="row 50% uniform">
+    <!-- first row -->
     <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/hacker.jpg" alt="" class="img-profile"/></span>
+                <span class="image fit"><img src="/images/phillipeA-profile.jpg" class="img-profile" alt="" /></span>
                 <p class="bio">
-                    Daniel Ainsworth<br>
+                    Phillipe Austria<br>
                     President
                 </p>
             </div>
         </div>
         <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/phill-profile.jpg" class="img-profile" alt="" /></span>
+                <span class="image fit"><img src="/images/danielA-profile.png" alt="" class="img-profile"/></span>
                 <p class="bio">
-                    Phillipe Austria<br>
-                    Scheduling Liason
-                </p>
-            </div>
-        </div>
-        <div class="4u">
-            <div>
-                <span class="image fit"><img src="/images/ginger.jpg" alt="" class="img-profile" /></span>
-                <p class="bio">
-                    Jinger Siu<br>
-                    Lead Trainer
-                </p>
-            </div>
-        </div>
-        <div class="4u$">
-            <div>
-                <span class="image fit"><img src="{{ "/images/hacker.jpg" | absolute_url }}" alt="" class="img-profile"/></span>
-                <p class="bio">
-                    Matt Lazeroff<br>
+                    Daniel Ainsworth<br>
                     Vice President
                 </p>
             </div>
         </div>
         <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/lyle.jpg" alt="" class="img-profile rotoate" /></span>
+                <span class="image fit"><img src="/images/jingerS-profile.jpg" alt="" class="img-profile"/></span>
                 <p class="bio">
-                    Matt Lyle<br>
-                    System Admin
+                    Jinger Siu<br>
+                    Lead Trainer
+                </p>
+            </div>
+        </div>
+
+        <!-- second row -->
+        <div class="4u$">
+            <div>
+                <span class="image fit"><img src="{{ "/images/jenniferL-profile.jpg" | absolute_url }}" alt="" class="img-profile"/></span>
+                <p class="bio">
+                    Jennifer Lee<br>
+                    Treasurer
+                </p>
+            </div>
+        </div>
+        <div class="4u">
+            <div>
+                <span class="image fit"><img src="/images/aliraC-profile.png" alt="" class="img-profile"/></span>
+                <p class="bio">
+                    Alira Coffman<br>
+                    Web Administrator
                 </p>
             </div>
         </div>
          <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/AlexPic.JPG" alt="" class="img-profile rotate"/></span>
+                <span class="image fit"><img src="/images/ameeraE-profile.png" alt="" class="img-profile"/></span>
                 <p class="bio">
-                  Alex Corey<br>
-                     Public Relations
+                  Ameera Essaqi<br>
+                  Internal Public Relations
+                </p>
+            </div>
+        </div>
+
+        <!-- third row -->
+        <div class="4u$">
+            <div>
+                <span class="image fit"><img src="{{ "/images/alexC-profile.jpg" | absolute_url }}" alt="" class="img-profile"/></span>
+                <p class="bio">
+                    Alex Corey<br>
+                    External Public Relations
                 </p>
             </div>
         </div>
