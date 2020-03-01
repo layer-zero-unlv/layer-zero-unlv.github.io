@@ -35,13 +35,13 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            "" 
+twitter:            "layer_zero_unlv" 
 facebook:           ""
-instagram:          ""
+instagram:          "layer_zero_unlv"
 github:             layer-zero-unlv
 
 # personal
-location:           Building-WHI, Room-302
+location:           CBC-C234 
 phone:              
 email:              layer_zero@unlv.edu
 
