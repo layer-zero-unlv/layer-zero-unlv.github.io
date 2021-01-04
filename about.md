@@ -21,80 +21,36 @@ We also provide resources to prepare members to take the Security+ examination, 
 <div class="box alt">
     <div class="row 50% uniform">
     <!-- first row -->
-    <div class="4u">
+    <div class="4u$">
             <div>
                 <span class="image fit"><img src="/images/phillipeA-profile.jpg" class="img-profile" alt="" /></span>
-                <p class="bio">
-                    Phillipe Austria<br>
-                    President
-                </p>
+                <p class="bio">Phillipe Austria</p>
             </div>
         </div>
         <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/danielA-profile.png" alt="" class="img-profile"/></span>
-                <p class="bio">
-                    Daniel Ainsworth<br>
-                    Vice President
-                </p>
+                <span class="image fit"><img src="{{ "/images/hacker.jpg" | absolute_url }}" alt="" class="img-profile"/></span>
+                <p class="bio">Jorge Garcia</p>
             </div>
         </div>
         <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/jingerS-profile.jpg" alt="" class="img-profile"/></span>
-                <p class="bio">
-                    Jinger Siu<br>
-                    Lead Trainer
-                </p>
+                <span class="image fit"><img src="/images/michaelL-profile.jpg" alt="" class="img-profile"/></span>
+                <p class="bio">Michael Lazeroff</p>
             </div>
         </div>
 
         <!-- second row -->
         <div class="4u$">
             <div>
-                <span class="image fit"><img src="{{ "/images/jenniferL-profile.jpg" | absolute_url }}" alt="" class="img-profile"/></span>
-                <p class="bio">
-                    Jennifer Lee<br>
-                    Treasurer
-                </p>
+                <span class="image fit"><img src="/images/carmenL-profile.jpg" alt="" class="img-profile"/></span>
+                <p class="bio">Carmen Lee</p>
             </div>
         </div>
         <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/aliraC-profile.png" alt="" class="img-profile"/></span>
-                <p class="bio">
-                    Alira Coffman<br>
-                    Web Administrator
-                </p>
-            </div>
-        </div>
-         <div class="4u">
-            <div>
-                <span class="image fit"><img src="/images/ameeraE-profile.png" alt="" class="img-profile"/></span>
-                <p class="bio">
-                  Ameera Essaqi<br>
-                  Internal Public Relations
-                </p>
-            </div>
-        </div>
-
-        <!-- third row -->
-        <div class="4u$">
-            <div>
-                <span class="image fit"><img src="{{ "/images/alexC-profile.jpg" | absolute_url }}" alt="" class="img-profile"/></span>
-                <p class="bio">
-                    Alex Corey<br>
-                    External Public Relations
-                </p>
-            </div>
-        </div>
-        <div class="4u">
-            <div>
-                <span class="image fit"><img src="{{ "/images/hacker.jpg" | absolute_url }}" alt="" class="img-profile"/></span>
-                <p class="bio">
-                    Jorge Garcia<br>
-                    Lab & System Administator
-                </p>
+                <span class="image fit"><img src="/images/angelG-profile.jpg" alt="" class="img-profile"/></span>
+                <p class="bio">Angel Garcia</p>
             </div>
         </div>
     </div>
@@ -105,21 +61,69 @@ We also provide resources to prepare members to take the Security+ examination, 
     <div class="d-block mx-auto">
     <span class="image fit"><img src="/images/kim-adviser.jpg" alt="" class="w-75"/></span>
     <p class="bio">
-        Dr. Yoohwan Kim, Ph.D.<br>
+        Yoohwan Kim, Ph.D.<br>
         CISSP, CISA, CEH, CPT<br>
         Associate Professor
     </p>
     </div>
 </div>
 
+### Previous Officers
+<div class="box alt">
+    <div class="row 50% uniform">
+        <!-- first row -->
+        <div class="4u">
+            <div>
+                <span class="image fit"><img src="/images/danielA-profile.png" alt="" class="img-profile"/></span>
+                <p class="bio">Daniel Ainsworth</p>
+            </div>
+        </div>
+        <div class="4u">
+            <div>
+                <span class="image fit"><img src="/images/jingerS-profile.jpg" alt="" class="img-profile"/></span>
+                <p class="bio">Jinger Siu</p>
+            </div>
+        </div>
+        <div class="4u">
+            <div>
+                <span class="image fit"><img src="/images/aliraC-profile.png" alt="" class="img-profile"/></span>
+                <p class="bio">Alira Coffman</p>
+            </div>
+        </div>
+
+        <!-- second row -->
+        <div class="4u$">
+            <div>
+                <span class="image fit"><img src="{{ "/images/jenniferL-profile.jpg" | absolute_url }}" alt="" class="img-profile"/></span>
+                <p class="bio">Jennifer Lee</p>
+            </div>
+        </div>
+         <div class="4u">
+            <div>
+                <span class="image fit"><img src="/images/ameeraE-profile.png" alt="" class="img-profile"/></span>
+                <p class="bio"> Ameera Essaqibr</p>
+            </div>
+        </div>
+        <div class="4u$">
+            <div>
+                <span class="image fit"><img src="{{ "/images/alexC-profile.jpg" | absolute_url }}" alt="" class="img-profile"/></span>
+                <p class="bio">Alex Corey</p>
+            </div>
+        </div>
+
+        <!-- third row -->
+    </div>
+</div>
+
+
 <style>
-#about-us, #officers, #adviser, .bio {
+#about-us, #officers, #adviser, .bio, #previous-officers {
     text-align:center;
 }
 
 .adviser-pic {
     display: block;
-     margin-left: auto;
-     margin-right: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 </style>
