@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Threat Intelligence"
-date:   2021-02-19
+date:   2021-03-09
 excerpt: "Cyber threat intelligence about threats and actors in cyberspace"
 image: "/images/blog-cyber-threat-int-title.jpg"
 ---
@@ -36,8 +36,9 @@ each data breach. One of the main things that cause a breach to cost so much to 
 organization is the time to identify and contain a breach, which had an average of 
 280 days within 2019.
 
-<img src="/images/blog-cyber-threat-int-img1.png" width="1200" height="600" alt="IBM data">
-
+<div class="image main">
+<img src="/images/blog-cyber-threat-int-img1.png" alt="IBM data">
+</div>
 
 <h2> Threat Intelligence Platforms</h2>
 
@@ -49,7 +50,9 @@ easily for real-time support and on-time decision making.
 implement an intelligent driven security approach. These stages are supported by automated workflows that 
 streamlined the threat detection management analysis and defensive process and track it through to completion. 
 
-<img src="/images/blog-cyber-threat-int-img2.png" width="300" height="500" alt="Platfom purpose" class="center">
+<div class="image main">
+<img src="/images/blog-cyber-threat-int-img2.png" alt="Platfom purpose">
+</div>
 
 Most threat intelligence platforms that we will show next have a free and a subscription option and its up to
 each organization to review the level of access and detail needed for their specific needs.
@@ -59,8 +62,13 @@ each organization to review the level of access and detail needed for their spec
 
 <h3><a href="https://go.recordedfuture.com/cyber-daily" target="_blank">Recorded Future</a> </h3>
 
-<a href="https://go.recordedfuture.com/cyber-daily" target="_blank"><img src="/images/blog-cyber-threat-int-Rec-Fut.png" width="1200" height="700" alt="Recorded Future" class="center"></a> 
-
+<div class="image main">
+<a href="https://go.recordedfuture.com/cyber-daily" target="_blank">
+	
+<img src="/images/blog-cyber-threat-int-Rec-Fut.png" alt="Recorded Future" class="center">
+	
+</a> 
+</div>
 Some of the features of that platform include centralizing and contextualizing all sources of threat data. 
 You can add your proprietary data and beads whether its data from industry bodies, security vendors, internal risks list, or independent research to the largest publicly available collection of data.
 <br>
@@ -69,7 +77,11 @@ You can add your proprietary data and beads whether its data from industry bodie
 
 <h3><a href="https://exchange.xforce.ibmcloud.com/" target="_blank">IBM X-Force Exchange</a> </h3>
 
-<a href="https://exchange.xforce.ibmcloud.com/" target="_blank"><img src="/images/blog-cyber-threat-int-IBM.png" width="1200" height="700" alt="IBM"></a> 
+<div class="image main">
+<a href="https://exchange.xforce.ibmcloud.com/" target="_blank">
+<img src="/images/blog-cyber-threat-int-IBM.png" alt="IBM">
+</a> 
+</div>
 
 Is a cloud-based threat intelligence sharing platform enabling users to rapidly research the latest security threats, aggregate actionable intelligence, and collaborate and its integrateable with other solutions. 
 <br>
@@ -78,7 +90,11 @@ Is a cloud-based threat intelligence sharing platform enabling users to rapidly 
 
 <h3><a href="https://www.bleepingcomputer.com" target="_blank">Bleeping Computer</a> </h3>
 
-<a href="https://www.bleepingcomputer.com" target="_blank"><img src="/images/blog-cyber-threat-int-Bleep.png" width="1200" height="700" alt="Bleepinng Computer"></a> 
+<div class="image main">
+<a href="https://www.bleepingcomputer.com" target="_blank">
+	<img src="/images/blog-cyber-threat-int-Bleep.png" alt="Bleepinng Computer">
+</a> 
+</div>
 
 
 
@@ -90,14 +106,22 @@ They allow you customize intelligence to increase relevance. You can tailor thre
 
 <h3><a href="https://krebsonsecurity.com" target="_blank">Krebs on Security</a> </h3>
 
-<a href="https://krebsonsecurity.com" target="_blank"><img src="/images/blog-cyber-threat-int-krebs.png" width="1000" height="300" alt="krebsonsecurity"></a> 
+<div class="image main">
+<a href="https://krebsonsecurity.com" target="_blank">
+<img src="/images/blog-cyber-threat-int-krebs.png" alt="krebsonsecurity">
+</a> 
+</div>
 <br>
 <br>
 
 
 <h3><a href="https://www.darkreading.com/threat-intelligence.asp" target="_blank">DARKReading</a> </h3>
 
-<a href="https://www.darkreading.com/threat-intelligence.asp" target="_blank"><img src="/images/blog-cyber-threat-int-dark.png" width="1000" height="500" alt="DARKReading"></a> 
+<div class="image main">
+<a href="https://www.darkreading.com/threat-intelligence.asp" target="_blank">
+<img src="/images/blog-cyber-threat-int-dark.png" alt="DARKReading">
+</a> 
+</div>
 <br>
 <br>
 
@@ -105,8 +129,11 @@ They allow you customize intelligence to increase relevance. You can tailor thre
 
 <h3><a href="https://www.infosecurity-magazine.com/threat-intelligence/" target="_blank">infosecurity</a> </h3>
 
-
-<a href="https://www.infosecurity-magazine.com/threat-intelligence/" target="_blank"><img src="/images/blog-cyber-threat-int-info.png" width="1000" height="500" alt="infosecurity"></a>
+<div class="image main">
+<a href="https://www.infosecurity-magazine.com/threat-intelligence/" target="_blank">
+<img src="/images/blog-cyber-threat-int-info.png" alt="infosecurity">
+</a>
+</div>
 <br>
 <br>
 
@@ -115,7 +142,11 @@ They allow you customize intelligence to increase relevance. You can tailor thre
 
 <h3><a href="https://www.trendmicro.com/vinfo/us/security/news/vulnerabilities-and-exploits" target="_blank">TREND micro</a> </h3>
 
-<a href="https://www.trendmicro.com/vinfo/us/security/news/vulnerabilities-and-exploits" target="_blank"><img src="/images/blog-cyber-threat-int-trend.png" width="1000" height="500" alt="trendmicro"></a> 
+<div class="image main">
+<a href="https://www.trendmicro.com/vinfo/us/security/news/vulnerabilities-and-exploits" target="_blank">
+<img src="/images/blog-cyber-threat-int-trend.png" alt="trendmicro">
+</a> 
+</div>
 
 
 
