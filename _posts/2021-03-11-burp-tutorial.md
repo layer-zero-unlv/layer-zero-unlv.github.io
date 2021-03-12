@@ -29,7 +29,7 @@ The rest of the features aree mostly the same:
 </ul>
 
 
-You can download Burp Suite <a href="https://portsswigger.net"> here</a>.
+You can download Burp Suite <a href="https://portswigger.net/burp/communitydownload"> here</a>.
 
 It is also worth noting that PortSwigger, the company that develops Burp, also has great tutorials and documentation on how to use Burp on many different kinds of situations and applications so check them out too: <a href="https://portswigger.net/web-security"> https://portswigger.net/web-security</a>.
 
