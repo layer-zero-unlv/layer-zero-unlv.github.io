@@ -3,9 +3,8 @@ layout: post
 title:  "Setting up Burp Suite"
 date:   2021-03-12
 excerpt: "A small tutorial on how to set up and configure Burp Suite Community Edition a proxy tool."
-image: "/images/blog-burp-tutorial.png"
+image: "/images/blog-burp-tut.png"
 ---
-
 
 
 <h2>What is Burp Suite?</h2>
@@ -44,7 +43,7 @@ A proxy server is basically a middle point between you and the internet. It sepa
 When you use a proxy server, internet traffic flows through the proxy server on its way to the address you requested. The request then comes back through that same proxy server (there are exceptions to this rule), and then the proxy server forwards the data received from the website to you.
 
 <div class="image main">
-	<img src="/images/blog-burp-tutorial-1.png">
+	<img src="/images/blog-burp-tut-1.png">
 </div>
 
 If that’s all it does, why bother with a proxy server? Why not just go straight from to the website and back?
@@ -58,7 +57,7 @@ If you havent done it yet, you can download Burp Suite <a href="https://portsswi
 The most recent versions of Brup innclude an instance of Chromium browser so there is no extra setting up needed, just go to the proxy tab and click onn the open browser button to launch Chromium and it will be ready to intercept.
 
 <div class="image main">
-	<img src="/images/blog-burp-tutorial-2.png">
+	<img src="/images/blog-burp-tut-2.png">
 </div>
 
 
@@ -72,7 +71,7 @@ Next we need to teell the browser where eto send the traffic to. For this, we ca
 
 
 <div class="image main">
-	<img src="/images/blog-burp-tutorial-3.png">
+	<img src="/images/blog-burp-tut-3.png">
 </div>
 
 A proxy switcher is a tool, usually in the form of a browser add-on, that allows one to turn a proxy on and off or cycle between multiple proxies with the click of a button. It saves loads of time as it usually takes many clicks to enable or disable a proxy.
@@ -82,19 +81,19 @@ A proxy switcher is a tool, usually in the form of a browser add-on, that allows
 You will need to download the extension adding it to Firefox like this:
 
 <div class="image main">
-	<img src="/images/blog-burp-tutorial-4.png">
+	<img src="/images/blog-burp-tut-4.png">
 </div>
 
 You will need to acceept and give it the permissions it requires:
 
 <div class="image main">
-	<img src="/images/blog-burp-tutorial-5.png">
+	<img src="/images/blog-burp-tut-5.png">
 </div>
 
 Next, you can click on the new extension icon and clikc on options. Here we will add the proxy information:
 
 <div class="image main">
-	<img src="/images/blog-burp-tutorial-6.png">
+	<img src="/images/blog-burp-tut-6.png">
 </div>
 
 
@@ -102,14 +101,14 @@ Now we need to open Burp and go to the Proxy tab. Under Proxy there are several 
 
 
 <div class="image main">
-	<img src="/images/blog-burp-tutorial-7.png">
+	<img src="/images/blog-burp-tut-7.png">
 </div>
 
 We can see the it is set to the default 127.0.0.1:8080.
 We need to give this innformation to Firefox and Foxyproxy now. Under ADD, we seee the form to enter the same innformation as in Burp:
 
 <div class="image main">
-	<img src="/images/blog-burp-tutorial-8.png">
+	<img src="/images/blog-burp-tut-8.png">
 </div>
 
 Title is optional, we only care about the IP address and the port being used.
@@ -120,31 +119,31 @@ To Do this we need to navidate to 127.0.0.1:8080 and we will see at the top righ
 We Need to save it:
 
 <div class="image main">
-	<img src="/images/blog-burp-tutorial-9.png">
+	<img src="/images/blog-burp-tut-9.png">
 </div>
 
 Next, we need to import the certificate into Firefox. For this, we need to go to Preferences. You can select preferences from the toolbar or type: <em>about:preferences</em> and scroll down to: <em> Privacy & Security</em>.
 
 <div class="image main">
-	<img src="/images/blog-burp-tutorial-10.png">
+	<img src="/images/blog-burp-tut-10.png">
 </div>
 
 We need to scroll down to the <em>Certificates</em> section and click on view certificates. 
 
 <div class="image main">
-	<img src="/images/blog-burp-tutorial-11.png">
+	<img src="/images/blog-burp-tut-11.png">
 </div>
 
 Click on <em>Import...</em> and select the <em>cacert.cer</em> we downloded previously.
 
 <div class="image main">
-	<img src="/images/blog-burp-tutorial-12.png">
+	<img src="/images/blog-burp-tut-12.png">
 </div>
 
 Accept and trust the CA
 
 <div class="image main">
-	<img src="/images/blog-burp-tutorial-13.png">
+	<img src="/images/blog-burp-tut-13.png">
 </div>
 
 
@@ -154,7 +153,7 @@ It is important to remember that Firefox will send the traffic through Burp when
 Also to start filtering traffic, remember to click on Burp's Proxy, then <em>Intercept is on</em> button so you start seeing the requests.
 
 <div class="image main">
-	<img src="/images/blog-burp-tutorial-14.png">
+	<img src="/images/blog-burp-tut-14.png">
 </div>
 
 If you use another browser, you can read the official documentation <a href="https://portswigger.net/burp/documentation/desktop/getting-started/proxy-setup">here</a> on how to set it up, but the steps are going to be fairly smiliar, involving pointing your browser to whateever IP and Port Burp is expecting and trusting a certificate so traffic flows freely.
