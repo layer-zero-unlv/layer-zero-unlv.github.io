@@ -52,7 +52,7 @@ Modern proxy servers do much more than forwarding web requests, all in the name 
 
 <h2>Installing Burp Suite</h2>
 
-If you havent done it yet, you can download Burp Suite <a href="https://portsswigger.net"> here</a>.
+If you havent done it yet, you can download Burp Suite <a href="https://portswigger.net/burp/communitydownload"> here</a>.
 
 The most recent versions of Brup innclude an instance of Chromium browser so there is no extra setting up needed, just go to the proxy tab and click onn the open browser button to launch Chromium and it will be ready to intercept.
 
