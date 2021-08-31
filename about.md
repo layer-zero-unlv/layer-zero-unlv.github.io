@@ -24,94 +24,62 @@ We also provide resources to prepare members to take the Security+ examination, 
     <div class="4u$">
             <div>
                 <span class="image fit"><img src="/images/phillipeA-profile.jpg" class="img-profile" alt="" /></span>
-                <p class="bio">Phillipe Austria</p>
+                <p class="bio">Phillipe Austria<br>President</p>
             </div>
         </div>
         <div class="4u">
             <div>
-                <span class="image fit"><img src="{{ "/images/hacker.jpg" | absolute_url }}" alt="" class="img-profile"/></span>
-                <p class="bio">Jorge Garcia</p>
-            </div>
-        </div>
-        <div class="4u">
-            <div>
-                <span class="image fit"><img src="/images/michaelL-profile.jpg" alt="" class="img-profile"/></span>
-                <p class="bio">Michael Lazeroff</p>
-            </div>
-        </div>
-
-        <!-- second row -->
-        <div class="4u$">
-            <div>
-                <span class="image fit"><img src="/images/carmenL-profile.jpg" alt="" class="img-profile"/></span>
-                <p class="bio">Carmen Lee</p>
+                <span class="image fit"><img src="{{ "/images/michaelL-profile.jpg" | absolute_url }}" alt="" class="img-profile"/></span>
+                <p class="bio">Michael Lazeroff<br>Vice President</p>
             </div>
         </div>
         <div class="4u">
             <div>
                 <span class="image fit"><img src="/images/angelG-profile.jpg" alt="" class="img-profile"/></span>
-                <p class="bio">Angel Garcia</p>
-            </div>
-        </div>
-    </div>
-</div>
-
-<h3 class="text-center">Adviser</h3>
-<div class="row">
-    <div class="d-block mx-auto">
-    <span class="image fit"><img src="/images/kim-adviser.jpg" alt="" class="w-75"/></span>
-    <p class="bio">
-        Yoohwan Kim, Ph.D.<br>
-        CISSP, CISA, CEH, CPT<br>
-        Associate Professor
-    </p>
-    </div>
-</div>
-
-### Previous Officers
-<div class="box alt">
-    <div class="row 50% uniform">
-        <!-- first row -->
-        <div class="4u">
-            <div>
-                <span class="image fit"><img src="/images/danielA-profile.png" alt="" class="img-profile"/></span>
-                <p class="bio">Daniel Ainsworth</p>
-            </div>
-        </div>
-        <div class="4u">
-            <div>
-                <span class="image fit"><img src="/images/jingerS-profile.jpg" alt="" class="img-profile"/></span>
-                <p class="bio">Jinger Siu</p>
-            </div>
-        </div>
-        <div class="4u">
-            <div>
-                <span class="image fit"><img src="/images/aliraC-profile.png" alt="" class="img-profile"/></span>
-                <p class="bio">Alira Coffman</p>
+                <p class="bio">Angel Garcia<br>Programs and Events</p>
             </div>
         </div>
 
         <!-- second row -->
         <div class="4u$">
             <div>
-                <span class="image fit"><img src="{{ "/images/jenniferL-profile.jpg" | absolute_url }}" alt="" class="img-profile"/></span>
-                <p class="bio">Jennifer Lee</p>
+                <span class="image fit"><img src="/images/briannaM-profile.jpg" alt="" class="img-profile"/></span>
+                <p class="bio">Brianna Morales<br>Communications</p>
             </div>
         </div>
-         <div class="4u">
+        <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/ameeraE-profile.png" alt="" class="img-profile"/></span>
-                <p class="bio"> Ameera Essaqibr</p>
+                <span class="image fit"><img src="/images/kristineM-profile.jpg" alt="" class="img-profile"/></span>
+                <p class="bio">Kristine Monsada<br>Marketing</p>
             </div>
         </div>
-        <div class="4u$">
+        <div class="4u">
             <div>
-                <span class="image fit"><img src="{{ "/images/alexC-profile.jpg" | absolute_url }}" alt="" class="img-profile"/></span>
-                <p class="bio">Alex Corey</p>
+                <span class="image fit"><img src="/images/dillonH-profile.jpg" alt="" class="img-profile"/></span>
+                <p class="bio">Dillon Harder<br>Web Master</p>
             </div>
         </div>
+    </div>
+</div>
 
-        <!-- third row -->
+<h3 class="text-center">Advisers</h3>
+<div class="row">
+    <div class="d-block mx-auto">
+    <span class="image fit"><img src="/images/yoohwanK-profile.jpg" alt="" class="img-profile"/></span>
+    <p class="bio">
+        Yoohwan Kim, Ph.D.<br>
+        CISSP, CISA, CEH, CPT<br>
+        Associate Professor<br>
+        Computer Science Department
+    </p>
+    </div>
+    <div class="d-block mx-auto">
+    <span class="image fit"><img src="/images/juyeonJ-profile.jpg" alt="" class="img-profile"/></span>
+    <p class="bio">
+        Ju-Yeon Jo, Ph.D.<br>
+        Associate Professor<br>
+        Computer Science Department
+    </p>
     </div>
 </div>
 
