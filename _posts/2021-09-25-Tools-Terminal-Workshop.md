@@ -15,15 +15,16 @@ useful for those who work in software development and general IT.
 Members are encouraged to bring a laptop to follow along. Software to install:
 
 1. Wireshark 
-    * mac and windows: [download](https://www.wireshark.org/download.html)
-    * ubuntu linux: enter the commands below in the terminal
+    * Mac and Windows: [download](https://www.wireshark.org/download.html)
+    * Ubuntu (linux): enter the commands below in the terminal
         ```
         sudo add-apt-repository ppa:wireshark-dev/stable
         sudo apt update
         sudo apt install wireshark
         ```
-2. Terminal Emulator (only for windows users)
-    * [Cmder](https://cmder.net/)
+2. Ubuntu Terminal (only for windows users)
+    * You can install the Ubuntu terminal on Windows through the Microsoft
+      Store. Directions are [here](https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview).
 
-If you need help installing any of the software, arrive before 5:30pm and we can
-assist you. The officers will arrive at 5:00pm.
+If you need help installing any of the software, arrive earlier between 5:00pm-5:30pm and we can
+assist you.
