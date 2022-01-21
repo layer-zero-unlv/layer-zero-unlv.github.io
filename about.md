@@ -81,7 +81,7 @@ We also provide resources to prepare members to take the Security+ examination, 
         <!-- fourth row -->
         <div class="4u$">
             <div>
-                <span class="image fit"><img src="/images/hacker.jpg" alt="" class="img-profile"/></span>
+                <span class="image fit"><img src="/images/fabrizio-valdivia.jpg" alt="" class="img-profile"/></span>
                 <p class="bio">Fabrizio Valdivia<br>Historian/Scribe</p>
             </div>
         </div>
