@@ -34,7 +34,8 @@ and its Vice President, Mehdi. They gave us an overview of the Free Cyber Clinic
 Finally, at the end, we finished off the meeting with some exciting activities! Angel hosted a station involving WiFi,
 Genaro hosted an activity exploring Google Form exploits, and Arian hosted a Burpe Suite activity!
 
-<div class="image main">
+<div class="image main"
+     style = "display: flex; width: 50%;">
   <img src="/images/angel_activity_wifi_station_09_22_22.jpg">
   <img src = "/images/genaro_gen_meeting_09_22_22.jpg">
 </div>
