@@ -23,19 +23,19 @@ We also provide resources to prepare members to take the Security+ examination, 
     <!-- first row -->
     <div class="4u$">
             <div>
-                <span class="image fit"><img src="{{ "/images/michaelL-profile.jpg" | absolute_url }}" alt="" class="img-profile"/></span>
+                <span class="image fit"><img src="{{ "/images/mikey_fa22.jpg" | absolute_url }}" alt="" class="img-profile"/></span>
                 <p class="bio">Michael Lazeroff<br>President</p>
             </div>
         </div>
         <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/angelG-profile.jpg" alt="" class="img-profile"/></span>
+                <span class="image fit"><img src="/images/angel_fa22.jpg" alt="" class="img-profile"/></span>
                 <p class="bio">Angel Garcia<br>Vice President</p>
             </div>
         </div>
         <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/phillipeA-profile.jpg" class="img-profile" alt="" /></span>
+                <span class="image fit"><img src="/images/phillipe_fa22.jpg" class="img-profile" alt="" /></span>
                 <p class="bio">Phillipe Austria<br>Graduate Advisor</p>
             </div>
         </div>
@@ -43,33 +43,8 @@ We also provide resources to prepare members to take the Security+ examination, 
         <!-- second row -->
         <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/dillonH-profile.jpg" alt="" class="img-profile"/></span>
-                <p class="bio">Dillon Harder<br>Webmaster</p>
-            </div>
-        </div>
-        <div class="4u$">
-            <div>
-                <span class="image fit"><img src="/images/briannaM-profile.jpg" alt="" class="img-profile"/></span>
-                <p class="bio">Brianna Morales<br>Communications</p>
-            </div>
-        </div>
-        <div class="4u">
-            <div>
-                <span class="image fit"><img src="/images/kristineM-profile.jpg" alt="" class="img-profile"/></span>
-                <p class="bio">Kristine Monsada<br>Marketing</p>
-            </div>
-        </div>
-        <!-- third row -->
-         <div class="4u$">
-            <div>
                 <span class="image fit"><img src="/images/hacker.jpg" alt="" class="img-profile"/></span>
-                <p class="bio">Christian Lopez<br>Programs and Events</p>
-            </div>
-        </div>
-        <div class="4u">
-            <div>
-                <span class="image fit"><img src="/images/hacker.jpg" alt="" class="img-profile"/></span>
-                <p class="bio">Jhaell Jiménez<br>Treasurer</p>
+                <p class="bio">Jhaell Jiménez<br>Treasurer/Secretary</p>
             </div>
         </div>
         <div class="4u">
@@ -78,23 +53,48 @@ We also provide resources to prepare members to take the Security+ examination, 
                 <p class="bio">Genaro Baez<br>Fundraising</p>
             </div>
         </div>
-        <!-- fourth row -->
+        <div class="4u">
+            <div>
+                <span class="image fit"><img src="/images/dillon_fa22.jpg" alt="" class="img-profile"/></span>
+                <p class="bio">Dillon Harder<br>Webmaster</p>
+            </div>
+        </div>
+        <!-- third row -->
+        <div class="4u">
+            <div>
+                <span class="image fit"><img src="/images/kristineM-profile.jpg" alt="" class="img-profile"/></span>
+                <p class="bio">Kristine Monsada<br>Marketing</p>
+            </div>
+        </div>
         <div class="4u$">
             <div>
-                <span class="image fit"><img src="/images/fabrizio-valdivia.jpeg" alt="" class="img-profile"/></span>
+                <span class="image fit"><img src="/images/christian_fa22.jpg" alt="" class="img-profile"/></span>
+                <p class="bio">Christian Rodriguez<br>Communications</p>
+            </div>
+        </div>
+        <div class="4u$">
+            <div>
+                <span class="image fit"><img src="/images/fabrizio_fa22.jpg" alt="" class="img-profile"/></span>
                 <p class="bio">Fabrizio Valdivia<br>Historian/Scribe</p>
             </div>
         </div>
+        <!-- fourth row -->
         <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/hacker.jpg" alt="" class="img-profile"/></span>
-                <p class="bio">Chadwick Powell<br>Public Relations</p>
+                <span class="image fit"><img src="/images/samer_fa22.jpg" alt="" class="img-profile"/></span>
+                <p class="bio">Samer Youssouf<br>Lab & System Administrator</p>
             </div>
         </div>
         <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/hacker.jpg" alt="" class="img-profile"/></span>
-                <p class="bio">Samer Youssouf<br>Lab Administrator</p>
+                <span class="image fit"><img src="/images/bryce_fa22.jpg" alt="" class="img-profile"/></span>
+                <p class="bio">Bryce Sowers<br>Public Relations</p>
+            </div>
+        </div>
+        <div class="4u$">
+            <div>
+                <span class="image fit"><img src="/images/arian_fa22.jpg" alt="" class="img-profile"/></span>
+                <p class="bio">Arian Izadi<br>Software Engineer</p>
             </div>
         </div>
     </div>
