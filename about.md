@@ -20,8 +20,8 @@ We also provide resources to prepare members to take the Security+ examination, 
 ### Officers
 <div class="box alt">
     <div class="row 50% uniform">
-    <!-- first row -->
-    <div class="4u$">
+        <!-- first row -->
+        <div class="4u$">
             <div>
                 <span class="image fit"><img src="{{ "/images/mikey_fa22.jpg" | absolute_url }}" alt="" class="img-profile"/></span>
                 <p class="bio">Michael Lazeroff<br>President</p>
@@ -47,7 +47,7 @@ We also provide resources to prepare members to take the Security+ examination, 
                 <p class="bio">Jhaell Jiménez<br>Treasurer/Secretary</p>
             </div>
         </div>
-        <div class="4u">
+        <div class="4u$">
             <div>
                 <span class="image fit"><img src="/images/hacker.jpg" alt="" class="img-profile"/></span>
                 <p class="bio">Genaro Baez<br>Fundraising</p>
@@ -66,7 +66,7 @@ We also provide resources to prepare members to take the Security+ examination, 
                 <p class="bio">Kristine Monsada<br>Marketing</p>
             </div>
         </div>
-        <div class="4u$">
+        <div class="4u">
             <div>
                 <span class="image fit"><img src="/images/christian_fa22.jpg" alt="" class="img-profile"/></span>
                 <p class="bio">Christian Rodriguez<br>Communications</p>
