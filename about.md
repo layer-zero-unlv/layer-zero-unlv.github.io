@@ -43,13 +43,13 @@ We also provide resources to prepare members to take the Security+ examination, 
         <!-- second row -->
         <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/hacker.jpg" alt="" class="img-profile"/></span>
+                <span class="image fit"><img src="/images/jhaell_fa22.jpg" alt="" class="img-profile"/></span>
                 <p class="bio">Jhaell Jiménez<br>Treasurer/Secretary</p>
             </div>
         </div>
         <div class="4u$">
             <div>
-                <span class="image fit"><img src="/images/hacker.jpg" alt="" class="img-profile"/></span>
+                <span class="image fit"><img src="/images/genaro_fa22.jpg" alt="" class="img-profile"/></span>
                 <p class="bio">Genaro Baez<br>Fundraising</p>
             </div>
         </div>
@@ -81,13 +81,13 @@ We also provide resources to prepare members to take the Security+ examination, 
         <!-- fourth row -->
         <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/samer_fa22.jpg" alt="" class="img-profile"/></span>
+                <span class="image fit"><img src="/images/samer2_fa22.jpg" alt="" class="img-profile"/></span>
                 <p class="bio">Samer Youssouf<br>Lab & System Administrator</p>
             </div>
         </div>
         <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/bryce_fa22.jpg" alt="" class="img-profile"/></span>
+                <span class="image fit"><img src="/images/bryce2_fa22.jpg" alt="" class="img-profile"/></span>
                 <p class="bio">Bryce Sowers<br>Public Relations</p>
             </div>
         </div>
