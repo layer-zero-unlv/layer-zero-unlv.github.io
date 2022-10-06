@@ -62,7 +62,7 @@ We also provide resources to prepare members to take the Security+ examination, 
         <!-- third row -->
         <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/kristineM-profile.jpg" alt="" class="img-profile"/></span>
+                <span class="image fit"><img src="/images/kristine_fa22.jpg" alt="" class="img-profile"/></span>
                 <p class="bio">Kristine Monsada<br>Marketing</p>
             </div>
         </div>
