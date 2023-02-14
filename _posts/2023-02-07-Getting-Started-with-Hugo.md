@@ -206,7 +206,7 @@ Hugo will output text about the site, including a line saying `Web Server is ava
 
 To view the website, copy the address it outputs for you into a browser.
 
-![new hugo site](images/hugo-blog-images-sp23/main-page.png)
+![new hugo site](/images/hugo-blog-images-sp23/main-page.png)
 
 When we make changes to our configuration, it will reflect in our local preview in real time.
 
