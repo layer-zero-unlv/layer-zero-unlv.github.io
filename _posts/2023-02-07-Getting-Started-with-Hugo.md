@@ -234,7 +234,7 @@ cp themes/nostyleplease/data/menu.toml data/menu.toml
 
 After some changes in the `data/menu.toml` file, my local preview looks like this:
 
-![updated](image/hugo-blog-images-sp23/updated-main-page.png)
+![updated](/images/hugo-blog-images-sp23/updated-main-page.png)
 
 These are the changes that were made:
 1. Update the `info` section at the top
@@ -341,7 +341,7 @@ If you are unfamiliar with markdown I recommend checking out the [Markdown Synta
 
 The below diagram shows what is happening with markdown. Markdown syntax is easily translated into HTML, which is used to display text to a webpage or any app which can render HTML. 
 
-![[images/hugo-blog-images-sp23/Getting Started With Hugo 2023-02-11 19.03.09.excalidraw.png]]
+![[/images/hugo-blog-images-sp23/Getting Started With Hugo 2023-02-11 19.03.09.excalidraw.png]]
 
 Markdown is commonly used for ease of use and portability. With markdown, you can render it using a number of different apps, including VSCode. 
 
@@ -377,7 +377,7 @@ Along with adding the new content in markdown, I also changed the `draft` status
 
 After doing that, I now see this in my local preview:
 
-![post-show](images/hugo-blog-images-sp23/post-show.png)
+![post-show](/images/hugo-blog-images-sp23/post-show.png)
 
 Our post has now shown up, and if we click on it we will see the content!
 
@@ -408,7 +408,7 @@ The reason for using Page Bundles as our content organization scheme of choice i
 
 Lets say that I want to include this cool picture of Jellyfish in my post:
 
-![[images/hugo-blog-images-sp23/jellyfish.jpg]]
+![[/images/hugo-blog-images-sp23/jellyfish.jpg]]
 
 First, I will need to place the image in my post folder. Since we are working on `hello-world` I will just add the file titled `cool-jellyfish.jpg` into there. After doing that, this is what the folder contains:  
 
@@ -628,7 +628,7 @@ The final step is we have to tell GitHub which branch to serve our files from fo
 
 In the settings, we need to tell Hugo to serve from the `gh-pages` branch:
 
-![gh-pages](images/hugo-blog-post-sp23/gh-pages.png)
+![gh-pages](/images/hugo-blog-post-sp23/gh-pages.png)
 
 After that is saved, you can refresh the page and the link to the new site will show up.
 
