@@ -29,8 +29,8 @@ We also provide resources to prepare members to take the Security+ examination, 
         </div>
         <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/angel_fa22.jpg" alt="" class="img-profile"/></span>
-                <p class="bio">Angel Garcia<br>Vice President</p>
+                <span class="image fit"><img src="/images/arian_fa22.jpg" alt="" class="img-profile"/></span>
+                <p class="bio">Arian Izadi<br>Vice President</p>
             </div>
         </div>
         <div class="4u">
@@ -44,7 +44,7 @@ We also provide resources to prepare members to take the Security+ examination, 
         <div class="4u">
             <div>
                 <span class="image fit"><img src="/images/jhaell_fa22.jpg" alt="" class="img-profile"/></span>
-                <p class="bio">Jhaell Jiménez<br>Treasurer/Secretary</p>
+                <p class="bio">Jhaell Jiménez<br>Treasurer</p>
             </div>
         </div>
         <div class="4u$">
@@ -62,39 +62,33 @@ We also provide resources to prepare members to take the Security+ examination, 
         <!-- third row -->
         <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/kristine_fa22.jpg" alt="" class="img-profile"/></span>
-                <p class="bio">Kristine Monsada<br>Marketing</p>
+                <span class="image fit"><img src="/images/samer2_fa22.jpg" alt="" class="img-profile"/></span>
+                <p class="bio">Samer Youssouf<br>Marketing</p>
             </div>
         </div>
         <div class="4u">
             <div>
                 <span class="image fit"><img src="/images/christian_fa22.jpg" alt="" class="img-profile"/></span>
-                <p class="bio">Christian Rodriguez<br>Communications</p>
+                <p class="bio">Christian Rodriguez<br>Public Relations</p>
             </div>
         </div>
         <div class="4u$">
             <div>
                 <span class="image fit"><img src="/images/fabrizio_fa22.jpg" alt="" class="img-profile"/></span>
-                <p class="bio">Fabrizio Valdivia<br>Historian/Scribe</p>
+                <p class="bio">Fabrizio Valdivia<br>Historian</p>
             </div>
         </div>
         <!-- fourth row -->
         <div class="4u">
             <div>
-                <span class="image fit"><img src="/images/samer2_fa22.jpg" alt="" class="img-profile"/></span>
-                <p class="bio">Samer Youssouf<br>Lab & System Administrator</p>
-            </div>
-        </div>
-        <div class="4u">
-            <div>
-                <span class="image fit"><img src="/images/bryce2_fa22.jpg" alt="" class="img-profile"/></span>
-                <p class="bio">Bryce Sowers<br>Public Relations</p>
+                <span class="image fit"><img src="/images/angel_fa22.jpg" alt="" class="img-profile"/></span>
+                <p class="bio">Angel Garcia<br>Lab & System Administrator</p>
             </div>
         </div>
         <div class="4u$">
             <div>
                 <span class="image fit"><img src="/images/arian_fa22.jpg" alt="" class="img-profile"/></span>
-                <p class="bio">Arian Izadi<br>Software Engineer</p>
+                <p class="bio">Bryce Sowers<br>Software Engineer</p>
             </div>
         </div>
     </div>
