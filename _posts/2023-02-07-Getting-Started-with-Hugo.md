@@ -341,7 +341,7 @@ If you are unfamiliar with markdown I recommend checking out the [Markdown Synta
 
 The below diagram shows what is happening with markdown. Markdown syntax is easily translated into HTML, which is used to display text to a webpage or any app which can render HTML. 
 
-![[/images/hugo-blog-images-sp23/Getting Started With Hugo 2023-02-11 19.03.09.excalidraw.png]]
+![md-html.png](/images/hugo-blog-images-sp23/md-html.png)
 
 Markdown is commonly used for ease of use and portability. With markdown, you can render it using a number of different apps, including VSCode. 
 
@@ -628,7 +628,7 @@ The final step is we have to tell GitHub which branch to serve our files from fo
 
 In the settings, we need to tell Hugo to serve from the `gh-pages` branch:
 
-![gh-pages](/images/hugo-blog-post-sp23/gh-pages.png)
+![gh-pages](/images/hugo-blog-images-sp23/gh-pages.png)
 
 After that is saved, you can refresh the page and the link to the new site will show up.
 
