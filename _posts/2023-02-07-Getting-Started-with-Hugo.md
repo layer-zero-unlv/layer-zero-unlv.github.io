@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting Started With Hugo"
-date:   2022-02-07
+date:   2023-02-07
 excerpt: "Making a static blog site in collab with Girls Who Code!"
 image: "/images/hugo-blog-images-sp23/event_bg.jpg"
 ---
