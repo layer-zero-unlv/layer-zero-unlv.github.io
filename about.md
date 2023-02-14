@@ -87,7 +87,7 @@ We also provide resources to prepare members to take the Security+ examination, 
         </div>
         <div class="4u$">
             <div>
-                <span class="image fit"><img src="/images/arian_fa22.jpg" alt="" class="img-profile"/></span>
+                <span class="image fit"><img src="/images/bryce2_fa22.jpg" alt="" class="img-profile"/></span>
                 <p class="bio">Bryce Sowers<br>Software Engineer</p>
             </div>
         </div>
