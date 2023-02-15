@@ -9,7 +9,7 @@ sitemap:
 ---
 ## About Us
 
-<span class="image left"><img src="{{ "/images/logo.png" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/layer_zero_organization_logo.jpg" | absolute_url }}" alt="" /></span>
 
 At Layer Zero we have two main goals: provide knowledge in general cyber security and prepare members to compete in National Cyber League's 'Capture the Flag'.
 
