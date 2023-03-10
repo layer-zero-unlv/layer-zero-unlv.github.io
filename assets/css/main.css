@@ -2565,6 +2565,10 @@
 					font-size: 1.25rem;
 				}
 
+				ul.icons > li > a {
+					border-bottom: none;
+				}
+
 			ul.icons.alt li .icon:before {
 				-moz-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 				-webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
