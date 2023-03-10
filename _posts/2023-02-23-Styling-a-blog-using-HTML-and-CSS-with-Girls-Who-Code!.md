@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  "GWC x LayerZero: Making a blog using HTML and CSS!"
+title:  "GWC x Layer Zero: Making a blog using HTML and CSS!"
 date:   2023-02-23
 excerpt: "Styling a blog using HTML and CSS with Girls Who Code!"
 image: "/images/gwc-blog-sp23/cover.png"
 ---
-# GWC x LayerZero Workshop
+# GWC x LayerZero Workshop 2
+
+Isabella demonstrated an example blog of the final product, a very cute yet simple enough design for beginners. Everyone started off with a boilerplate HTML and blank CSS file and Isabella began to go through step-by-step how to add the elements for the blog and what they each did. The people following along got to pick their own color pallet, write their own message, and chose the picture they wanted to have on their blogs. 
+
+Everyone seemed to have a great time learning about HTML and CSS and Isabella did a great job teaching the concepts. Glitch was a great platform to work off of and If anyone wants to make their own blog as well, we will include the information from the workshop here.
 
 # Let’s make a blog using HTML and CSS!
 
