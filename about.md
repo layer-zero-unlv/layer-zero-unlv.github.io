@@ -101,7 +101,7 @@ We also provide resources to prepare members to take the Security+ examination, 
     <p class="bio">
         Yoohwan Kim, Ph.D.<br>
         CISSP, CISA, CEH, CPT<br>
-        Associate Professor<br>
+        Professor<br>
         Computer Science Department
     </p>
     </div>
@@ -109,7 +109,7 @@ We also provide resources to prepare members to take the Security+ examination, 
     <span class="image fit"><img src="/images/juyeonJ-profile.jpg" alt="" class="img-profile"/></span>
     <p class="bio">
         Ju-Yeon Jo, Ph.D.<br>
-        Associate Professor<br>
+        Professor<br>
         Computer Science Department
     </p>
     </div>
