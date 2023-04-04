@@ -11,11 +11,11 @@ sitemap:
 
 <span class="image left"><img src="{{ "/images/layer_zero_organization_logo.jpg" | absolute_url }}" alt="" /></span>
 
-At Layer Zero we have two main goals: provide knowledge in general cyber security and prepare members to compete in National Cyber League's 'Capture the Flag'.
+At Layer Zero we have two main goals: provide knowledge in general cybersecurity and prepare members to compete in National Cyber League's 'Capture the Flag'.
 
 National Cyber League (NCL) hosts Capture the Flag (CTF) twice a year, a competition where you must find a digital flag using your "hacker" skills. The competition tests your knowledge in several categories, such as cryptography, reverse engineering, web-vulnerabilities and network security. At Layer Zero, we train weekly in order to hone are skills and perform well in CTF.
 
-We also provide resources to prepare members to take the Security+ examination, an entry level certification required by most employers in the Cyber Security Industry.
+We also provide resources to prepare members to take the Security+ examination, an entry level certification required by most employers in the Cybersecurity Industry.
 
 ### Officers
 <div class="box alt">

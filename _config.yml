@@ -1,7 +1,7 @@
 # Site
 title:              Layer Zero
-bio:                'UNLV Cyber Security Club'
-description:        "UNLV Cyber Security Club"
+bio:                'UNLV Cybersecurity Club'
+description:        "UNLV Cybersecurity Club"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site

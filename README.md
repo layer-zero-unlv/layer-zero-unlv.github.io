@@ -1,7 +1,7 @@
 # Layer Zero (University of Nevada, Las Vegas)
 
 ## Who We Are
-We are Layer Zero, a Information and Cyber Security student organization at the University of Nevada, Las Vegas.
+We are Layer Zero, a Information and Cybersecurity student organization at the University of Nevada, Las Vegas.
 This repository contains our organization website and blog. [Layer Zero Homepage](https://layer-zero-unlv.github.io/)
 
 
