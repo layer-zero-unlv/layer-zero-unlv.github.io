@@ -1,3 +1,4 @@
+#!/bin/bash
 # DISCLAIMER: This script is for educational purposes only.
 # Any personal or sensitive information found in the loot file is stored in /tmp/loot.txt
 # Nothing was actually exfiltrated but just remember that actual attackers would
